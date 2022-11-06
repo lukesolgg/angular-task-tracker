@@ -1,21 +1,21 @@
-#Angular Task Tracker App
+# Angular Task Tracker App
 This project includes the Angular ui as well as JSON-server for our mock backend
 
-##Usage
+## Usage
 
-###Install dependencies
+### Install dependencies
 ```
 npm install
 ```
-###Run Angular server (http://localhost:4200)
+### Run Angular server (http://localhost:4200)
 ```
 ng serve
 ```
-###Run the JSON server (http://localhost:5000)
+### Run the JSON server (http://localhost:5000)
 ```
 npm run server
 ```
-###To build for production
+### To build for production
 ```
 ng build
 ```
