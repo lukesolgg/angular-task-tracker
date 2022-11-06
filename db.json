@@ -1,22 +1,28 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctors Appointment",
-      "day": "May 5th at 2:30pm",
-      "reminder": true
+      "text": "Build More Angular Projects",
+      "day": "As soon as possible",
+      "reminder": true,
+      "id": 5
     },
     {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "May 6th at 2:30pm",
-      "reminder": true
+      "text": "Build Website for {REDACTED}",
+      "day": "November 28th",
+      "reminder": true,
+      "id": 6
     },
     {
-      "id": 3,
-      "text": "Food Shopping",
-      "day": "May 7th at 12:30pm",
-      "reminder": false
+      "text": "Schedule Meetings",
+      "day": "Tuesday Morning",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Example Task",
+      "day": "Example Date",
+      "reminder": false,
+      "id": 8
     }
   ]
 }
